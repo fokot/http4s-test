@@ -3,7 +3,7 @@
 More info:
 
 * [http4s](https://http4s.org/)
-* [frestyle](http://frees.io/docs/integrations/http4s/)
+* [freestyle](http://frees.io/docs/integrations/http4s/)
 
 Main class is [fokot.Main](src/main/scala/fokot/Main.scala)
 
